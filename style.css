@@ -4,7 +4,7 @@
 }
 
 .hero-container {
-    background-image: url(/images/donation.jpg);
+    background-image: url("images/donation.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     width: 98.7vw;
