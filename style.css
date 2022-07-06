@@ -178,6 +178,7 @@
 
  .donation-channel-logo img {
     display: inline;
+    cursor: pointer;
     margin: 70px;
  }
 
