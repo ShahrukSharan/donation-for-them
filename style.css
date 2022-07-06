@@ -96,7 +96,7 @@
     border-radius: 5px; 
  }
 
- .food-card-title {
+ .card-title {
     font-size: 100%;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -134,15 +134,6 @@
     margin-bottom: 10px;
  }
 
- .third-news-text h2 {
-    font-size: 200%;
-    margin-bottom: 10px;
- }
-
- .third-news-text {
-    margin-top: 50px;
- }
-
  .second-news-container {
     width: 68vw;
     margin: auto;
@@ -155,16 +146,27 @@
     margin-left: 30px;
  }
 
- .third-news-container {
-    width: 68vw;
-    margin: auto;
-    display: flex;
-    margin-top: 30px;
- }
-
  .update-container {
     width: 50vw;
     padding-top: 30px;
     margin: auto;
     text-align: center;
+ }
+
+ .update-container h2 {
+    margin-bottom: 10px;
+ }
+
+ .subscription-area {
+    background-color: #FFF4D6;
+    margin-top: 30px;
+    padding: 40px;
+    border-radius: 5px;
+ }
+
+ .input-email {
+    padding: 10px;
+    margin-right: -5px;
+    border: none;
+    background-color: #B3B3B3;
  }
