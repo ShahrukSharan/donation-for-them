@@ -1,0 +1,170 @@
+* {
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+}
+
+.hero-container {
+    background-image: url(/images/donation.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 98.7vw;
+    height: 80vh;
+    opacity: 1 black;
+    margin: auto;
+}
+
+.hero-content {
+    text-align: center;
+    color: white;
+    margin: auto;
+    width: 50vw;
+    padding: 8%;
+}
+
+.hero-content h1 {
+    font-size: 200%;
+    margin-bottom: 30px;
+}
+
+.custom-button {
+    margin-top: 30px;
+    padding: 10px;
+    background-color: #FF5959;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.custom-button:hover {
+    cursor: pointer;
+}
+
+.donate-container {
+    width: 50vw;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.donate-text {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.donate-amount {
+    display: flex;
+}
+
+.donate-amount h4 {
+    margin: auto;
+    padding: 30px;
+    background-color: #FAFAFA;
+    border-radius: 5px;
+}
+
+.special-color {
+    background-color: #f5e2e2;
+    border: 1px solid #FF5959;
+    color: #FF5959;
+}
+
+.other-amount {
+    color: #B3B3B3;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    border: none;
+    font-size: 100%;
+}
+
+.plan-text {
+    width: 50vw;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.card-container {
+    display: flex;
+    width: 70vw;
+    margin: auto;
+}
+
+.plan-card {
+    width: 20vw;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px; 
+ }
+
+ .food-card-title {
+    font-size: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.food {
+   background-color: #EDF5F6; 
+}
+
+.shelter {
+    background-color: #FFEEEE; 
+ }
+
+ .education {
+    background-color: #FFF4D6; 
+ }
+
+ .first-news-container {
+    width: 68vw;
+    margin: auto;
+    display: flex;
+ }
+
+ .first-news-text {
+    margin-top: 150px;
+ }
+
+ .first-news-text h2 {
+    font-size: 200%;
+    margin-bottom: 10px;
+ }
+
+ .second-news-text h2 {
+    font-size: 200%;
+    margin-bottom: 10px;
+ }
+
+ .third-news-text h2 {
+    font-size: 200%;
+    margin-bottom: 10px;
+ }
+
+ .third-news-text {
+    margin-top: 50px;
+ }
+
+ .second-news-container {
+    width: 68vw;
+    margin: auto;
+    display: flex;
+    margin-top: 30px;
+ }
+
+.second-news-text {
+    margin-top: 50px;
+    margin-left: 30px;
+ }
+
+ .third-news-container {
+    width: 68vw;
+    margin: auto;
+    display: flex;
+    margin-top: 30px;
+ }
+
+ .update-container {
+    width: 50vw;
+    padding-top: 30px;
+    margin: auto;
+    text-align: center;
+ }
